@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .back{
+    width: 100vw;
+    height: 100vh;
+    background-color: #393939;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+} */
+.back-1 {
+    width: 500px;
+    min-height: 25%;
+
+}
